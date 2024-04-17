@@ -1,2 +1,2 @@
-# ComfyUI-RUS-portable
+# "ComfyUI RUS" portable
 Портабельная версия, не требующая наличия установленных **Python** и **Git**
