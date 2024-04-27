@@ -1,7 +1,7 @@
 # "ComfyUI RUS" portable
 Портабельная версия, не требующая наличия установленных **Python** и **Git**
 
-<a href=https://github.com/ComfyUI-RUS/ComfyUI-RUS-portable>>>> **Портабельная версия** (python 3.11.6) <<<</a>
+<a href=https://github.com/ComfyUI-RUS/ComfyUI-RUS-portable/releases/download/ComfyUI-RUS-portable/ComfyUI-RUS-portable.zip>>>> **Скачать дистрибутив** <<<</a>
 
 ---
 
