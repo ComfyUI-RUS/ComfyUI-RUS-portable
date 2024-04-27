@@ -6,6 +6,7 @@
 <a href=https://github.com/ComfyUI-RUS/ComfyUI-RUS-portable/releases/download/ComfyUI-RUS-portable/ComfyUI-RUS-portable.zip>>>> **Скачать дистрибутив** <<<</a>
 
 (Если у вас не устанавливается на этой верссии "Reactor" - обращайтесь к автору этого расширения т.к. он не встает и на оригинальном портабельном ComfyUI. Reactor, очевидно, требует 3.10 версию питона, и прекрано встает на нашей <a href=https://github.com/ComfyUI-RUS/ComfyUI-RUS>**"НЕ-портабельной"**</a> версии)
+
 ---
 
 Версия для тех, у кого в системе уже установлены **Python** и **Git**
